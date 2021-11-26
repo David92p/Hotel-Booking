@@ -1,7 +1,7 @@
 # HOTEL-BOOKING
 
 ### Descrizione
-**Hotel-booking** it's a mobile application for Football matches! <br/>
+**Hotel-booking** Applicazione utile per la ricerda di alloggi, voli e gestione vacanze! <br/>
 *Possiamo utilizzare questa landing page come homepage!*
 <br/><br/>
 
