@@ -6,5 +6,5 @@
 <br/><br/>
 
 ### Sviluppo
-Abbiamo utilizzato *HTML5*, *CSS3* con le funzionalità di *BOOTSTRAP!
+Abbiamo utilizzato *HTML5*, *CSS3* con le funzionalità di *BOOTSTRAP*!
 
